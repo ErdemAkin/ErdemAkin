@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Ali Erdem Akın
 
 - 🔭   I’m currently working as a **Senior Software Engineer** at **[Turhost (Aerotek Bilişim)](https://www.turhost.com/)**
-- 🌱   I’m currently learning **English**, **German**, **React**
+- 🌱   I’m currently learning **English (B2 - C1)**, **German (A1.1 - A1.2)**, **React**
 - ⚙️   I love to code in **Php**, **Node.js**, **Vue**, **Laravel**
 - 🔭   I'd like to work more on **Go**, **Phoenix**
 - ✍️   I want to write **public domains articles**
