@@ -1,16 +1,14 @@
-### Hi there 👋
+## 👋 Hi there! I'm Ali Erdem Akın
 
-<!--
-**ErdemAkin/ErdemAkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭   I’m currently working as a **Senior Software Engineer** at **[Turhost (Aerotek Bilişim)](https://www.turhost.com/)**
+- 🌱   I’m currently learning **English**, **German**, **React**
+- ⚙️   I love to code in **Php**, **Node.js**, **Vue**, **Laravel**
+- 🔭   I'd like to work more on **Go**, **Phoenix**
+- ✍️   I want to write **public domains articles**
+- 🐱‍🏍   I want to be a **project manager** one day.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+<p align="center">
+  <img src="/github-metrics.svg" />
+</p>
