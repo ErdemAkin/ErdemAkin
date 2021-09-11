@@ -16,6 +16,8 @@ jobs:
           config_timezone: Europe/Istanbul
           plugin_languages: yes
           plugin_languages_colors: github
-          plugin_languages_ignored: vue,makefile,css,html,scss,brainfuck,javascript
+          plugin_languages_ignored: css,html
           plugin_languages_limit: 10
           plugin_languages_threshold: 0%
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size
